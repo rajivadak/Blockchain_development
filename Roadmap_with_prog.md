@@ -1,3 +1,20 @@
+Blockchain development roadmap:
+
+    Types of blockchain development:
+		1. Application devs - solidity, javascript, python
+		2. Core devs - golang, c++, rust
+	What will you do?
+		- smart contracts on ethereum BC using solidity
+		- understanding c++ through blockchain development
+	Tools & tech:
+		1. javascript - react, node, express, web3
+		2. Truffle[framework]
+		3. Ganache - for hosting and deploying applications [test transactions] 
+		4. Metamask
+	What more is required? [Tutorials -> projects -> work]
+		- Web development
+		- Crypto graphy
+
 ### **Step 1: Master Linked Lists and Pointers in C/C++**
 Since blockchain systems require efficient memory handling and low-level manipulation, **C and C++** are ideal for learning these concepts.  
 
@@ -5,7 +22,7 @@ Since blockchain systems require efficient memory handling and low-level manipul
 1. **Pointers**
    - Basics: Pointer declaration, dereferencing, pointer arithmetic  
    - Dynamic memory allocation (`malloc`, `calloc`, `free`, `new`, `delete`)  
-   - Pointer to pointer (`**ptr`) and pointer to structures  
+   - Pointer to pointer (`**ptr`) and pointer to structures hi 
 
 2. **Linked Lists**
    - Singly Linked List (Insertion, Deletion, Traversal)  
