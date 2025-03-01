@@ -5,11 +5,17 @@ Progress and goals achieved [w.r.t BlChain_dev]
 ---
 
 Next action plan:
-Make notes on the below topics and add it to the notes file:
+- Make notes on the below topics and add it to the notes file:
 1. What is a blockchain?
 2. Pointers and memory management
 3. Decentralization and distributed systems
 4. W.R.T blockchain making notes on linked-lists and pointers, so check the resources for the same in the starred repos
+
+- decide a small and simple project for initializing of blockchain development
+  project 1: Basic Blockchain implementation
+  Create a simple blockchain that stores data in blocks. Each block should contain: index,timestamps,data,previous block's hash,current block's hash
+  outcome: understand how blocks are linked together using hashes
+  tools: use c++ libraries like <openssl/sha.h> for hashing  
     
 ---
 1. Learn the Basics of C++
